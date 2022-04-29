@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.tabla-1{
+    width: 60rem;
+    margin: auto;
+    font-family: Arial;
+}
+
+.info-perfil{
+    font-size: 1,1rem;
+}
+
+.titulo{
+    font-size: 2,2rem;
+}
+
+.titulo2{
+    font-size: 2rem;
+    color: red;
+}
+
+.parrafo{
+    font-size: 1,2rem;
+}
+
+i{
+    color: red;
+}
+
+.mas-info{
+    color: rgb(97, 209, 209);
+}
+
+.palabra1{
+    color: red;
+}
+
+.post{
+    width: 22rem;
+}
